@@ -4,7 +4,7 @@
         {
             "type": "shell",
             "label": "install",
-            "command": "bundle install --binstubs"
+            "command": "rvm use ruby-2.5 && rvm gemset use capybara-tests && bundle install --binstubs"
         }
     ]
 }
