@@ -17,5 +17,3 @@ domains:
       - \/api\/v2\/pokemon\/\D+
       - \/api\/v2\/pokemon\/\d+
       - \/api\/v2\/pokemon\?limit\=\d+\&offset=\d+
-
-  
